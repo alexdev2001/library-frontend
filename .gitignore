@@ -1,0 +1,5 @@
+#hide the node_modules directory
+node_modules/
+
+#hide the .next directory
+.next/
